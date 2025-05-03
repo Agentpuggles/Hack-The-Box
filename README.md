@@ -18,3 +18,8 @@ I'm a cybersecurity enthusiast who documents my journey through various HTB chal
 
 ---
 
+## ⚠️ Disclaimer
+
+These write-ups are for **educational purposes only**. Do not use the techniques here on any system without **explicit permission**.
+
+---
